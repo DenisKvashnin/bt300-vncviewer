@@ -1,0 +1,4 @@
+#Sun May 19 02:18:10 CST 2019
+base.0=/home/malcolm/Downloads/vncbt300/DrahflowsAR1/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
